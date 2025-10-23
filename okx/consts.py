@@ -1,6 +1,6 @@
 # Http header
 #API_URL = 'https://www.okx.com'
-API_URL = 'https://www.eea.okx.com'
+API_URL = 'https://eea.okx.com'
 
 CONTENT_TYPE = 'Content-Type'
 OK_ACCESS_KEY = 'OK-ACCESS-KEY'
